@@ -27,7 +27,6 @@
   Identify datasets that are applicable to cybersecurity for use in labs and exercises.
 
 ## Items we had to complete:
-## Items we had to complete:
 1. Create GitHub
 2. Introduce Target Course Name
 3. Introduce Goals for Target Course (how to apply HPC resources)
