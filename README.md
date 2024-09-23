@@ -1,16 +1,16 @@
-**# FacultyHackHPC**
-Target Course Name
-CS423 - Introduction to Cybersecurity
+# FacultyHackHPC
 
-**Team Members:**
-Dr. Izzat
-Dr. Fernando (Oak Ridge National Lab)
+## Target Course Name
+**CS423 - Introduction to Cybersecurity**
 
-**Items we had to complete:**
-Create GitHub
-Introduce Target Course Name
-Introduce Goals for Target Course (how to apply HPC resources)
+## Team Members:
+- Dr. Izzat
+- Dr. Fernando (Oak Ridge National Lab)
 
-Resources:
+## Items we had to complete:
+1. Create GitHub
+2. Introduce Target Course Name
+3. Introduce Goals for Target Course (how to apply HPC resources)
+
 
 
