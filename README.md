@@ -8,8 +8,8 @@
 ## Team Members:
 - Sabrina Perry, **KeyCracker**  
   Mississippi Valley State University
-- Dr. Izzat Almadi, **Code Enforcer**  
-  Input University Info
+- Dr. Izzat Alsmadi, **Code Enforcer**  
+  Texas A&M, San Antonio
 - Dr. Fernando Posada, **Byte Master**  
   Oak Ridge National Laboratory
 
