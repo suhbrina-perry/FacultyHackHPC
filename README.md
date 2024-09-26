@@ -1,3 +1,5 @@
+![Project Logo](./CrytoSquad.png)
+
 # FacultyHackHPC
 
 ## Target Course Name
