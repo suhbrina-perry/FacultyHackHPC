@@ -1,4 +1,4 @@
-![Project Logo](./CrytoSquad.png)
+![Project Logo](./CryptoSquad.webp)
 
 # FacultyHackHPC
 
