@@ -1,4 +1,5 @@
-![Project Logo](./CryptoSquad.webp)
+<img src="./CryptoSquad.webp" alt="Project Logo" width="300" height="200">
+
 
 # FacultyHackHPC
 
